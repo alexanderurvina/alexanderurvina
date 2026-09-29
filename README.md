@@ -6,7 +6,7 @@
 
 Desarrollador con base en Java y desarrollo web, y enfoque creciente en análisis de datos. Construyo soluciones prácticas a partir de proyectos reales y trabajo colaborativo en equipo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/hans-alexander-urvina-colin/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-alexander-urvina-colin/)
 
 ---
 
@@ -29,6 +29,7 @@ Actualmente enfocando mi camino profesional hacia el **análisis de datos**, com
 
 ### Backend / Programación
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -40,7 +41,6 @@ Actualmente enfocando mi camino profesional hacia el **análisis de datos**, com
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -79,5 +79,5 @@ Mini sitio web sobre el sello discográfico La Vendición Records, desarrollado 
 
 ## 📫 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](🔲 tu-link-de-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/🔲TU_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-alexander-urvina-colin/)
+[![GitHub](ht
