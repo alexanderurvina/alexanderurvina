@@ -6,7 +6,7 @@
 
 Desarrollador con base en Java y desarrollo web, y enfoque creciente en análisis de datos. Construyo soluciones prácticas a partir de proyectos reales y trabajo colaborativo en equipo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](🔲 tu-link-de-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/hans-alexander-urvina-colin/)]
 
 ---
 
