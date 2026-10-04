@@ -1,83 +1,62 @@
-# 👋 Hola, soy Hans Alexander Urvina Colín
+# Hans 👋
 
-### 💻 Full Stack Developer Java | 📊 Data Analyst
+**Ingeniero · Entre el negocio y el código.**
 
-**Java · HTML5 · CSS3 · JavaScript · SQL · Python · R · Git · Metodologías ágiles (Scrum)**
-
-Desarrollador con base en Java y desarrollo web, y enfoque creciente en análisis de datos. Construyo soluciones prácticas a partir de proyectos reales y trabajo colaborativo en equipo.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-alexander-urvina-colin/)
+No soy el que escribe el algoritmo más elegante. Soy el que entiende qué necesita el cliente, lo traduce a algo que el equipo técnico puede construir, y se asegura de que lo que salga sirva para lo que se pidió.
 
 ---
 
-## 🧑‍💻 Sobre mí
+### De dónde vengo
 
-Cursé el bootcamp de **Java Full Stack** en Generation México, con conocimientos en:
+Ingeniero en **Ciencia y Tecnología del Agua** por la UAM Lerma. Mi tesis fue caracterizar magnéticamente un sistema acuífero en una zona de disposición final de residuos: diseño de muestreo, trabajo de campo con magnetómetro, procesamiento e interpretación de datos, mapas en Surfer.
 
-- ☕ **Java**
-- 🌐 **JavaScript, HTML5 y CSS3**
-- 🗄️ **SQL y bases de datos relacionales**
-- 🔧 **Git y GitHub**
-- 🤝 **Metodologías ágiles (Scrum)**
-- 📊 **Análisis de datos** (Python, R, Excel/VBA)
+Ahí aprendí lo que sigo haciendo: **tomar un sistema que nadie entiende del todo, medirlo, y convertirlo en algo que se puede explicar y decidir.**
 
-Actualmente enfocando mi camino profesional hacia el **análisis de datos**, combinándolo con mi base en desarrollo web.
+Después pasé cinco años en operación y piso de venta en retail global — Nike, H&M, American Eagle. Producto, inventario, indicadores, equipos, clientes. Es donde aprendí que los datos sin contexto de negocio no sirven para nada.
 
----
+Y en medio, trabajo freelance en análisis de datos y automatización de procesos para clientes en LATAM y España.
 
-## 🛠️ Tecnologías
+### En qué ando
 
-### Backend / Programación
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)
+Cerrando el bootcamp **Java Full Stack de Generation México (CH71)**. Java, SQL, Spring, HTML/CSS/JavaScript, Bootstrap, Git y metodologías ágiles.
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Análisis de Datos
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel/VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+No para volverme desarrollador de carrera, sino para hablar el idioma. Buscando mi lugar como **analista funcional / consultor de implementación**, donde lo que hago bien — entender el problema, ordenar la información, traducir entre áreas — es justo el trabajo.
 
 ---
 
-## 🚀 Proyectos destacados
+### Caja de herramientas
 
-### 🏔️ Rutta — E-commerce Full Stack (Proyecto Integrador)
-E-commerce de artículos de senderismo/trail running, desarrollado en equipo con rol de Product Owner. Catálogo de productos multimarca, carrito de compras con localStorage y frontend en HTML/CSS/Bootstrap/JavaScript.
+**Lo que uso con soltura**
+`Excel avanzado` · `VBA` · `Análisis de datos` · `Documentación de requerimientos` · `Scrum` · `Git / GitHub`
 
-**Tecnologías:** `HTML5` · `CSS3` · `Bootstrap` · `JavaScript` · `Git` · `GitHub`
-🔗 [Ver repositorio](🔲 link-al-repo-de-rutta)
+**En lo que estoy construyendo nivel**
+`Java` · `SQL` · `JavaScript` · `HTML / CSS` · `Bootstrap` · `APIs REST`
 
-### 🏆 Hackathon Hogwarts — Landing Page Casa Gryffindor
-Landing page interactiva desarrollada bajo restricción de tiempo, con carrito de compras y persistencia en localStorage, trabajando en equipo de 12 personas.
-
-**Tecnologías:** `HTML5` · `CSS3` · `JavaScript` · `LocalStorage` · `Git`
-🔗 [Ver repositorio](🔲 link-al-repo-de-hogwarts)
-
-### 🎵 Mi Recomendador Personal
-Mini sitio web sobre el sello discográfico La Vendición Records, desarrollado con HTML, CSS, Bootstrap y JavaScript básico.
-
-**Tecnologías:** `HTML5` · `CSS3` · `Bootstrap` · `JavaScript`
-🔗 [Ver repositorio](🔲 link-al-repo)
+**De mi otra vida**
+`Surfer` · `Análisis geofísico` · `FL Studio`
 
 ---
 
-## 📊 GitHub Stats
+### Proyectos
 
-![Stats](https://github-readme-stats.vercel.app/api?username=🔲TU_USERNAME&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=🔲TU_USERNAME&layout=compact&theme=transparent&hide_border=true)
+| Proyecto | De qué va | Mi parte |
+|---|---|---|
+| **Rutta** | E-commerce, proyecto integrador del bootcamp | Product Owner: backlog, coordinación del equipo, wireframes, apoyo en frontend |
+| **Hackathon Hogwarts** | Landing interactiva con carrito y localStorage | Coordinación de equipo de 12 personas y desarrollo frontend |
+| **Mi Recomendador** | Mini sitio sobre un sello de música urbana | Diseño y maquetación completa |
 
 ---
 
-## 📫 Conecta conmigo
+### Lo otro
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hans-alexander-urvina-colin/)
-[![GitHub](ht
+Hago música. **RVFLW** — reggaetón, trap y cosas oscuras que suenan a las 3 de la mañana.
+
+Lo menciono porque explica cómo trabajo: terminar algo que todavía no existe, decidir cuándo ya está bien, y presentarlo aunque no sea perfecto. Resulta que eso también sirve para los proyectos.
+
+---
+
+### Hablemos
+
+[LinkedIn](TU_LINKEDIN) · [Portafolio](TU_PORTAFOLIO) · [Correo](mailto:TU_CORREO)
+
+> Si buscas a alguien que entienda tanto al cliente como al equipo técnico, por aquí ando.
